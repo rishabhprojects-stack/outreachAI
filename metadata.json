@@ -1,0 +1,6 @@
+{
+  "name": "OutReachAI",
+  "description": "A premium automated digital presence management and agency scale framework powered by autonomous server-side AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
